@@ -1,0 +1,49 @@
+05:24:05.342 [main] INFO  testCases.TC_001_Registration - clicked on Reg
+05:24:09.444 [main] INFO  testCases.TC_001_Registration - created account
+05:24:09.606 [main] ERROR testCases.TC_001_Registration - test failed
+05:24:15.273 [main] INFO  testCases.TC_002_Login - 2 chalu kiya
+05:24:17.610 [main] INFO  testCases.TC_002_Login - bandh 2 kiya
+05:24:18.638 [main] INFO  testCases.TC_002_Login - ***closed***
+05:34:10.106 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\grouping.xml
+
+05:34:16.739 [main] INFO  testCases.TC_001_Registration - ** chalu hua**
+05:34:16.766 [main] INFO  testCases.TC_001_Registration - clicked on Reg
+05:34:20.546 [main] INFO  testCases.TC_001_Registration - created account
+05:34:20.649 [main] ERROR testCases.TC_001_Registration - test failed
+05:34:26.024 [main] INFO  testCases.TC_002_Login - 2 chalu kiya
+05:37:04.351 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\test-output\testng-failed.xml
+
+05:37:10.403 [main] INFO  testCases.TC_001_Registration - ** chalu hua**
+05:37:10.480 [main] INFO  testCases.TC_001_Registration - clicked on Reg
+05:37:14.742 [main] INFO  testCases.TC_001_Registration - created account
+05:37:14.837 [main] INFO  testCases.TC_001_Registration - **Bandh hua**
+05:37:19.808 [main] INFO  testCases.TC_002_Login - 2 chalu kiya
+05:37:21.943 [main] INFO  testCases.TC_002_Login - bandh 2 kiya
+05:37:23.272 [main] INFO  testCases.TC_002_Login - ***closed***
+05:44:38.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\final.xml
+
+05:44:44.976 [main] INFO  testCases.TC_001_Registration - ** chalu hua**
+05:44:45.030 [main] INFO  testCases.TC_001_Registration - clicked on Reg
+05:44:50.112 [main] INFO  testCases.TC_001_Registration - created account
+05:44:50.370 [main] INFO  testCases.TC_001_Registration - **Bandh hua**
+05:44:55.923 [main] INFO  testCases.TC_002_Login - 2 chalu kiya
+05:44:58.210 [main] INFO  testCases.TC_002_Login - bandh 2 kiya
+05:44:59.284 [main] INFO  testCases.TC_002_Login - ***closed***
+07:40:43.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\final.xml
+
+07:41:08.863 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\final.xml
+
+07:45:02.596 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\final.xml
+
+07:50:03.218 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\final.xml
+
+07:56:46.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\final.xml
+

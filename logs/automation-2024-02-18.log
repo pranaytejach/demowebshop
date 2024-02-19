@@ -1,0 +1,71 @@
+08:46:00.293 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4e4efc1b: 76 ms
+08:46:00.307 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3ec11999: 12 ms
+08:46:00.318 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a11c4c7: 11 ms
+08:46:00.333 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6db66836: 13 ms
+08:46:00.346 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@780ec4a5: 13 ms
+08:46:00.347 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e24ddd0: 1 ms
+09:03:46.297 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\master.xml
+
+09:04:38.322 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+09:04:38.551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\crossbrowser.xml
+
+09:04:44.210 [TestNG-test-chrometest-1] INFO  testCases.TC_001_Registration - ** chalu hua**
+09:04:44.234 [TestNG-test-chrometest-1] INFO  testCases.TC_001_Registration - clicked on Reg
+09:04:48.898 [TestNG-test-chrometest-1] INFO  testCases.TC_001_Registration - created account
+09:04:49.123 [TestNG-test-chrometest-1] INFO  testCases.TC_001_Registration - **Bandh hua**
+09:04:55.673 [TestNG-test-edgetest-1] INFO  testCases.TC_001_Registration - ** chalu hua**
+09:04:55.678 [TestNG-test-edgetest-1] INFO  testCases.TC_001_Registration - clicked on Reg
+09:04:59.134 [TestNG-test-edgetest-1] INFO  testCases.TC_001_Registration - created account
+09:04:59.242 [TestNG-test-edgetest-1] INFO  testCases.TC_001_Registration - **Bandh hua**
+09:06:19.115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\master.xml
+
+10:14:59.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\grouping.xml
+
+10:15:05.667 [main] INFO  testCases.TC_002_Login - 2 chalu kiya
+10:15:07.433 [main] INFO  testCases.TC_002_Login - bandh 2 kiya
+10:15:08.273 [main] INFO  testCases.TC_002_Login - ***closed***
+10:16:39.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\grouping.xml
+
+10:16:44.549 [main] INFO  testCases.TC_001_Registration - ** chalu hua**
+10:16:44.583 [main] INFO  testCases.TC_001_Registration - clicked on Reg
+10:16:48.323 [main] INFO  testCases.TC_001_Registration - created account
+10:16:48.409 [main] INFO  testCases.TC_001_Registration - **Bandh hua**
+10:17:17.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\grouping.xml
+
+10:17:23.319 [main] INFO  testCases.TC_001_Registration - ** chalu hua**
+10:17:23.346 [main] INFO  testCases.TC_001_Registration - clicked on Reg
+10:17:26.162 [main] INFO  testCases.TC_001_Registration - created account
+10:17:26.201 [main] INFO  testCases.TC_001_Registration - **Bandh hua**
+10:17:31.009 [main] INFO  testCases.TC_002_Login - 2 chalu kiya
+10:17:33.255 [main] INFO  testCases.TC_002_Login - bandh 2 kiya
+10:17:34.268 [main] INFO  testCases.TC_002_Login - ***closed***
+10:36:22.408 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\grouping.xml
+
+10:36:29.639 [main] INFO  testCases.TC_001_Registration - ** chalu hua**
+10:36:29.684 [main] INFO  testCases.TC_001_Registration - clicked on Reg
+10:36:33.233 [main] INFO  testCases.TC_001_Registration - created account
+10:36:33.316 [main] INFO  testCases.TC_001_Registration - **Bandh hua**
+10:37:52.902 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\grouping.xml
+
+10:37:59.560 [main] INFO  testCases.TC_001_Registration - ** chalu hua**
+10:37:59.600 [main] INFO  testCases.TC_001_Registration - clicked on Reg
+10:38:02.698 [main] INFO  testCases.TC_001_Registration - created account
+10:38:02.759 [main] INFO  testCases.TC_001_Registration - **Bandh hua**
+10:39:30.201 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\Demowebshop\grouping.xml
+
+10:39:36.843 [main] INFO  testCases.TC_001_Registration - ** chalu hua**
+10:39:36.894 [main] INFO  testCases.TC_001_Registration - clicked on Reg
+10:39:41.615 [main] INFO  testCases.TC_001_Registration - created account
+10:39:41.662 [main] INFO  testCases.TC_001_Registration - **Bandh hua**
+10:39:47.562 [main] INFO  testCases.TC_002_Login - 2 chalu kiya
+10:40:46.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:40:46.598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
